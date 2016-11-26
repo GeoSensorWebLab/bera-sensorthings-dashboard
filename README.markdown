@@ -2,6 +2,8 @@
 
 A dashboard for viewing SensorThings data for the [BERA Project](http://www.bera-project.org). It is a fork of the [Simple STA Dashboard](https://github.com/GeoSensorWebLab/sensorthings-dashboard) with additional info for the BERA project.
 
+You can view the dashboard online at http://dashboard.bera-project.org.
+
 ## Requirements
 
 * Node 6.0.0 or newer
