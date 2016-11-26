@@ -1,7 +1,7 @@
 {
-  "name": "simple-sta-dashboard",
+  "name": "bera-sta-dashboard",
   "version": "0.8.0",
-  "description": "Simple SensorThings Dashboard",
+  "description": "BERA SensorThings API Dashboard",
   "private": "yes",
   "main": "index.js",
   "engines": {

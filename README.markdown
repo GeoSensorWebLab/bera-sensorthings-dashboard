@@ -1,6 +1,6 @@
-# Simple STA Dashboard
+# BERA SensorThings API Dashboard
 
-A basic dashboard for SensorThings.
+A dashboard for viewing SensorThings data for the [BERA Project](http://www.bera-project.org). It is a fork of the [Simple STA Dashboard](https://github.com/GeoSensorWebLab/sensorthings-dashboard) with additional info for the BERA project.
 
 ## Requirements
 
