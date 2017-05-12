@@ -165,5 +165,6 @@ module.exports = doGZIP(mergeTrees([views, templates,
   allStyles,
   allScripts
 ]), {
-  extensions: ['css', 'html', 'js']
+  extensions: ['css', 'html', 'js'],
+  keepUncompressed: true
 });
