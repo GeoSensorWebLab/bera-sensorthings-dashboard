@@ -6,8 +6,8 @@ You can view the dashboard online at http://dashboard.bera-project.org.
 
 ## Requirements
 
-* Node 6.0.0 or newer
-* NPM 3.6 or newer
+* Node 6 series
+* NPM 3 series
 
 ## Development Environment
 
