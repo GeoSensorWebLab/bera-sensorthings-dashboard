@@ -1,6 +1,6 @@
 {
   "name": "bera-sta-dashboard",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "BERA SensorThings API Dashboard",
   "private": "yes",
   "main": "index.js",

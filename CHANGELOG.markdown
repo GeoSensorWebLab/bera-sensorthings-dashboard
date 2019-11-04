@@ -2,6 +2,13 @@
 
 A list of changes and fixes for each release.
 
+## v0.8.1 (2019-11-04)
+
+* Include build in version control
+* Bump highcharts from 5.0.4 to 6.1.0
+* Upgrade recommended Node version to 10.16 (LTS)
+* Replace NPM shrinkwrap file with package lock file
+
 ## v0.8.0 (2016-11-25)
 
 ### FEATURES
