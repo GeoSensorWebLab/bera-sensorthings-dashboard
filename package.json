@@ -41,7 +41,7 @@
     "jquery-datetimepicker": "git+https://github.com/GeoSensorWebLab/momentjs-datetimepicker.git",
     "leaflet": "^1.0.2",
     "moment": "^2.13.0",
-    "node-sass": "^3.2.0",
+    "node-sass": "^7.0.0",
     "pluralize": "^3.0.0",
     "q": "^1.4.1",
     "rimraf": "^2.4.4",
